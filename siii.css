@@ -1,0 +1,22 @@
+body {
+
+
+    align-items: center;
+    /* background-color: transparent; */
+    /* background-color: ; */
+    /* background: url("http://3.bp.blogspot.com/-6UcbVnNXBVI/UjkLQXms0zI/AAAAAAAAAE8/xNVxyDUj0s0/s1600/imagenes%2Bde%2Bcorazones%2Bpara%2Bcelular%2B(2).jpg"); */
+    background: url("imgDevani01.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: grid;
+    height: 100vh;
+    place-items: center;
+    background-color: black;
+    color: rgba(247, 239, 239, 0.973);
+}
+
+.pent {
+    color: rgb(241, 8, 8);
+}
